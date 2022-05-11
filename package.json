@@ -1,0 +1,29 @@
+{
+  "name": "bvik_lab05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrieldim/ERC20-Hardhat-Etherium"
+  },
+  "author": "Ivo Tasevski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieldim/ERC20-Hardhat-Etherium"
+  },
+  "homepage": "https://github.com/gabrieldim/ERC20-Hardhat-Etherium",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.0",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.0",
+    "@openzeppelin/contracts": "^4.6.0",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.0.0",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.9.3"
+  }
+}
